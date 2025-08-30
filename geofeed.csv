@@ -1,0 +1,8 @@
+# NGEN Networks IP Geolocation Data Feed
+# prefix,country,region,city,postal
+23.163.129.0/27,US,US-FL,Miami,
+23.163.128.0/27,US,US-WA,Seattle,
+23.163.128.32/27,US,US-WA,Seattle,
+2602:fef4:300::/48,US,US-WA,Seattle,
+2602:fef4:400::/48,US,US-FL,Miami,
+
