@@ -1,5 +1,9 @@
 # NGEN Networks IP Geolocation Data Feed
-# prefix,country,region,city,postal
+# Format: ip_prefix,country_code,region,city,postal_code
+# See RFC 8805 for standard geofeed format details.
+# Maintainer: https://github.com/ngennetworks/ip-geolocation
+# 
+# Any blank fields are allowed. Use 2-letter country and ISO-3166-2 region codes.
 23.163.129.0/27,US,US-FL,Miami,
 23.163.128.0/27,US,US-WA,Seattle,
 23.163.128.32/27,US,US-WA,Seattle,
