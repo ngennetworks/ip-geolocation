@@ -44,9 +44,9 @@ This file is provided for public use to improve the geolocation of NGEN Networks
 
 ## Resources
 
-- [RFC 8805: A Format for Self-published IP Geolocation Feeds][2]
-- [RFC 9092: Finding and Using Geofeed Data][5][6]
-- Learn more: [Official PeeringDB for AS54721][7]
+- [RFC 8805: A Format for Self-published IP Geolocation Feeds](https://datatracker.ietf.org/doc/html/rfc8805)
+- [RFC 9092: Finding and Using Geofeed Data](https://datatracker.ietf.org/doc/html/rfc9092)
+- Learn more: [Official PeeringDB for AS54721](https://www.peeringdb.com/asn/54721)
 
 ## Contact
 
